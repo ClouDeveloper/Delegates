@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <SignAssembly>True</SignAssembly>
+    <AssemblyOriginatorKeyFile>ClouDeveloper.Delegates.snk</AssemblyOriginatorKeyFile>
+    <DelaySign>False</DelaySign>
+    <Authors>ClouDeveloper</Authors>
+    <Company>ClouDeveloper</Company>
+    <Product>ClouDeveloper</Product>
+    <Description>This package provides helper functions that convert the Delegate class to the Task class.</Description>
+    <Copyright>(c) ClouDeveloper</Copyright>
+    <PackageLicenseUrl>https://github.com/ClouDeveloper/Delegates/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/ClouDeveloper/Delegates</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ClouDeveloper/Delegates</RepositoryUrl>
+    <RepositoryType />
+    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
